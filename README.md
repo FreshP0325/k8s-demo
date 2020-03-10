@@ -1,7 +1,4 @@
 # Kubernetes demo application for Go
-
-Other language: 
-### **[中文](README.zh.md)**
  
 This is an application to show how to deploy a Go application with Kubernetes. 
 
@@ -10,7 +7,7 @@ This is an application to show how to deploy a Go application with Kubernetes.
 #### Download Code
 
 ```
-go get github.com/jfeng45/k8sdemo
+go get github.com/Niksend/k8s-demo
 ```
 
 ## License
